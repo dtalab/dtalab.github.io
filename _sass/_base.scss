@@ -63,6 +63,10 @@ aside {
     padding: 50px 0;
 }
 
+.article-padding {
+  padding: 100px 30px 30px 60px;
+}
+
 .no-padding {
     padding: 0;
 }
@@ -225,7 +229,7 @@ header {
 .portfolio-box {
     position: relative;
     display: block;
-    max-width: 650px;
+    max-width: 400px;
     margin: 0 auto;
     .portfolio-box-caption {
         color: white;
