@@ -102,3 +102,5 @@ img::selection { color: white; background: transparent; }
 img::-moz-selection { color: white; background: transparent; }
 
 body { -webkit-tap-highlight-color: #222; }
+
+.smaller-image { width: 200px; }
