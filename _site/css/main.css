@@ -19,11 +19,15 @@ p { font-size: 16px; line-height: 1.5; margin-bottom: 20px; }
 
 .text-faded { color: rgba(255, 255, 255, 0.7); }
 
-section { padding: 100px 0; }
+section { padding: 0; }
 
 aside { padding: 50px 0; }
 
-.article-format { padding: 0 30px; text-align: justify; }
+.article-format { padding: 70px 30px !important; text-align: justify; }
+
+.about-format { padding: 100px 0; }
+
+.intro-text { padding-bottom: 10px !important; }
 
 .no-padding { padding: 0; }
 
